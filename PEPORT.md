@@ -25,7 +25,7 @@ The diagram above shows the design pattern and data flow once the user login.
 </ul>
 
 <li><i>actions.php:</i> Where all the actions are performed.(submit login, post tweet, toggle follow)</li>
-<li><i>function.php:</i> Functions of the app. The controller part of MVC.(display time, tweets and user)</li>
+<li><i>function.php:</i> Functions of the app. The controller part of MVC.(display time, tweets and users info)</li>
 <li><i>index.php:</i> Central point of the website, every page will be generate from here.</li>
 <li><i>styles.css:</i> General styles of the website.</li>
 
