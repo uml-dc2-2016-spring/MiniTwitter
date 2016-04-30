@@ -1,6 +1,6 @@
 # Project Goal
 
-The goal of this project was to create a simple version of twitter that allowed user to login, post tweets, follow other people and send email notification to follower.
+The goal of this project was to create a simple version of twitter that allowed user to login, post tweets, follow other people and send email notification to follower once a new tweet is posted.
 In order to acheive this, I need to apply the knowledge I already learn, and explore the framework and language I am not familiar with. More importantly, for personal preference, to get a hand-on experience in web development. 
 Link to the final product(http://217.199.187.192/cctoys.com/twitter/).
 
