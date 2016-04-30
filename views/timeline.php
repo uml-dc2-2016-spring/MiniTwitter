@@ -1,11 +1,11 @@
 <div class="container mainContainer">
 
-	<div class="row">
-  	<div class="col-md-8">
+    <div class="row">
+ 	<div class="col-md-8">
         
-        <h2>Recent tweets</h2>
+    	<h2>Tweets For You</h2>
         
-        <?php displayTweets('public'); ?>
+        <?php displayTweets('isFollowing'); ?>
       
     </div>
   	<div class="col-md-4">
@@ -14,9 +14,10 @@
       
     <hr>
       
-     	<?php displayTweetBox(); ?>
+    	<?php displayTweetBox(); ?>
         
     </div>
-	</div>
+
+</div>
     
 </div>
