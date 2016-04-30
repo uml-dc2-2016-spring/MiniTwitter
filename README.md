@@ -10,6 +10,28 @@ MiniTwitter is a simple version of Twitter which will allow user to login or sig
 
 - Initial Enviroment Setup 
 - Create the user interface
-- 
+
+# Progress (Week 04/12)
+
+- Connect to mySQL database 
+- Implement login/signup feature(including hashed password)
+- Implement postTweet feature
+
+# Progress (Week 04/19)
+
+-Implement follow feature
+-Implement search feature
+-Implement email notification feature
+
+
+
+
+
+
+
+
+
+
+
 need files.md
 
