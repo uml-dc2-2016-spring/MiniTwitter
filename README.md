@@ -19,19 +19,9 @@ MiniTwitter is a simple version of Twitter which will allow user to login or sig
 
 # Progress (Week 04/19)
 
--Implement follow feature
--Implement search feature
--Implement email notification feature
+- Implement follow feature
+- Implement search feature
+- Implement email notification feature
 
 
-
-
-
-
-
-
-
-
-
-need files.md
 
