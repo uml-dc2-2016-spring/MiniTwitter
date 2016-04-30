@@ -1,8 +1,48 @@
 #toggleLogin {
-
-	padding-right: 15px;
-
+    
+    padding-right: 15px;
+    
 }
+
+#loginAlert {
+    
+    display:none;
+    
+}
+
+#tweetSuccess {
+    
+    display:none;
+    
+}
+
+#tweetFail {
+    
+    display:none;
+    
+}
+
+.mainContainer {
+    
+    padding: 20px;
+    
+}
+
+.time {
+    
+    color: lightgrey;
+    
+}
+
+.tweet {
+    
+    border: 1px solid grey;
+    border-radius: 5px;
+    padding: 5px;
+    margin: 5px;
+    
+}
+
 
 /* Sticky footer styles
 -------------------------------------------------- */
